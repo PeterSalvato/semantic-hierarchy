@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986290.svg)](https://doi.org/10.5281/zenodo.18986290)
+
 # Semantic Flattening and the Case for Human-Marked Importance in AI Memory
 
 *Why Machine-Scored Memory Systems Erase What Matters Most*
